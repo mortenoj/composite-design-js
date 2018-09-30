@@ -1,6 +1,6 @@
 ## Demo of composite pattern written in NodeJS
 
-*To run example: *
+*To run example:*
 
 *clone project*
 
