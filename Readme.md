@@ -2,6 +2,6 @@
 
 *To run example:*
 
-*clone project*
+*- clone project*
 
-*run `node composite.js`*
+*- run `node composite.js`*
